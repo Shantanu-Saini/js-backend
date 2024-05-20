@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "Dev" : "nodemon src/index.js"
+    "Dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
@@ -14,6 +14,7 @@
   "author": "Shantanu Saini",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
   }
 }
