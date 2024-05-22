@@ -1,8 +1,46 @@
+// approach: 2
+import connectDB from "./db/connect";
+
+connectDB();    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+// approach: 1
+
 import mongoose from 'mongoose';
 import express from 'express';
 import { DB_NAME } from './constants';
 
 const app = express();
+
 
 ; (async () => {
     try {
@@ -21,3 +59,5 @@ const app = express();
         throw error
     }
 })()
+
+*/
